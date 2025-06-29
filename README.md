@@ -1,64 +1,65 @@
-# Dinindu Akalanka | Personal Portfolio
+# Dinindu Akalanka — Personal Portfolio
 
+A responsive, single-page personal website built with  HTML, CSS, and JavaScript.  
+This project serves as a central place to present my Educational background, projects, and technical skills.
 
-_A sneak peek at the interactive hero section._
-![Screenshot 2025-06-29 164316](https://github.com/user-attachments/assets/aefce1b9-fb9a-4f7d-af60-bf0e29b95c87)
+![Hero Section](https://github.com/user-attachments/assets/aefce1b9-fb9a-4f7d-af60-bf0e29b95c87)
 
-## Table of Contents
+---
 
-* [About This Portfolio](#about-this-portfolio)
-* [Features](#features)
-* [Technologies Used](#technologies-used)
-* [Project Structure](#project-structure)
-* [Contact](#contact)
+## 🔍 Overview
 
-## About This Portfolio
+This portfolio site was designed and developed to be fast, lightweight, and accessible. It includes interactive components, project showcases, and structured content tailored for both desktop and mobile viewing. All animations and dynamic behavior are implemented without external libraries or frameworks, ensuring full control and performance transparency.
 
-This repository hosts the source code for my personal portfolio website, a dynamic and responsive platform designed to showcase my skills, projects, and professional journey as a Computer Science undergraduate at the University of Jaffna.
+**Live URL:** [https://dininduakalanka.github.io/Portfolio](https://dininduakalanka.github.io/Portfolio)
 
-The website emphasizes a clean, modern design with a focus on user experience and interactivity. It serves as a central hub for anyone interested in my work, providing easy access to project details, live demos, and my contact information.
+---
 
-**Live Demo:**  https://dininduakalanka.github.io/Portfolio/
+## ✅ Features
 
+- **Fully Responsive Layout** – Optimized for mobile, tablet, and desktop
+- **Canvas-based Particle Animation** – Built using the native Canvas API (no libraries)
+- **Scroll-aware Navigation** – Highlights active sections in the nav bar
+- **Project Gallery** – Modular cards with project details, tech stack, and external links
+- **Skills & Experience Sections** – Structured content for quick scanning
+- **Accessible HTML5** – Semantic structure and ARIA support where applicable
+- **Client-side Contact Form** – With basic input validation
 
-## Features
+---
 
-* **Responsive Design: ** Optimized for seamless viewing across all devices (desktops, tablets, and mobile phones).
-* **Interactive Hero Section: ** Engaging particle animation built with pure JavaScript and Canvas API.
-* **Dynamic Navigation: ** Active link highlighting based on scroll position for intuitive Browse.
-* **Project Showcase: ** Dedicated section with detailed project cards, including images, descriptions, technologies used, and links to live demos and GitHub repositories.
-* **Skills Overview: ** Clearly lists technical proficiencies.
-* **Experience & Education: ** Dedicated sections outlining academic background and professional experiences.
-* **Contact Form: ** Simple client-side validated form for easy communication.
-* **Clean & Modern UI: ** Designed with a focus on aesthetics, readability, and user-friendliness using CSS variables for easy theming.
-* **Accessibility Conscious: ** Implemented with semantic HTML5 and ARIA attributes where appropriate.
+## ⚙️ Tech Stack
 
-## Technologies Used
+This project intentionally avoids frameworks to highlight core front-end capabilities:
 
-This project is built using fundamental web technologies:
+| Layer         | Technology        |
+|---------------|-------------------|
+| Markup        | HTML5             |
+| Styling       | CSS3 (Flexbox, Grid, Variables, Media Queries) |
+| Scripting     | JavaScript (ES6+) |
+| Animation     | Canvas API        |
+| Fonts & Icons | Google Fonts (Inter), Font Awesome |
 
-* **HTML5: ** For semantic structure and content organization.
-* **CSS3: ** For styling, layout (Flexbox), responsive design (`@media` queries), and custom properties (CSS variables).
-* **JavaScript (ES6+): ** For interactive elements, DOM manipulation, particle animation, form validation, and scroll-based navigation.
-* **Font Awesome: ** For scalable vector icons.
-* **Google Fonts (Inter): ** For modern and readable typography.
+---
 
-## Project Structure
-index.html         # Main HTML structure of the portfolio
-style.css          # All custom CSS styles, including variables and responsive design
-script.js          # All custom JavaScript for interactivity and animations
-images/            # Stores profile pictures, project screenshots, etc.
+## 📁 Folder Structure
 
-## Screenshots
+Portfolio/
+├── index.html → Main entry point
+├── style.css → Global styles, theme variables, responsive rules
+├── script.js → DOM interactions, animations, scroll logic
+└── images/ → Static assets (profile image, screenshots)
 
-![Screenshot 2025-06-29 172010](https://github.com/user-attachments/assets/08335399-5b17-4929-8984-bc161c2cfa5f)
-_Overview of the project showcase section._
+## 📸 UI Snapshots
 
-![Screenshot 2025-06-29 172105](https://github.com/user-attachments/assets/4f412c47-d78e-4007-83c5-1c22732b52b9)
-_Example of the skills and contact sections._
+### Project Section  
+![Projects](https://github.com/user-attachments/assets/08335399-5b17-4929-8984-bc161c2cfa5f)
 
-## Contact
+### Skills & Contact  
+![Skills](https://github.com/user-attachments/assets/4f412c47-d78e-4007-83c5-1c22732b52b9)
 
+---
+
+## 📬 Contact
 I'm always open to new ideas, collaborations, or just a friendly chat about tech. Feel free to reach out!
 
 * **LinkedIn: ** https://www.linkedin.com/in/dinindu-akalanka-990610270/
