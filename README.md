@@ -11,7 +11,6 @@ _A sneak peek at the interactive hero section._
 * [Technologies Used](#technologies-used)
 * [Getting Started](#getting-started)
     * [Prerequisites](#prerequisites)
-    * [Installation](#installation)
 * [Project Structure](#project-structure)
 * [Contact](#contact)
 * [License](#license)
