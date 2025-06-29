@@ -22,7 +22,7 @@ This repository hosts the source code for my personal portfolio website, a dynam
 
 The website emphasizes a clean, modern design with a focus on user experience and interactivity. It serves as a central hub for anyone interested in my work, providing easy access to project details, live demos, and my contact information.
 
-**Live Demo:** [https://your-github-username.github.io/your-portfolio-repository-name/](https://your-github-username.github.io/your-portfolio-repository-name/)
+**Live Demo:**  https://dininduakalanka.github.io/Portfolio/
 
 
 ## Features
