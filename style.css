@@ -753,7 +753,7 @@ button {
   }
   
   .project-card {
-    flex-basis: calc(50% - 1.25rem);
+    flex-basis: calc(60% - 1.25rem);
   }
 }
 
